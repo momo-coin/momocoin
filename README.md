@@ -203,7 +203,7 @@ FreeBSD 12.1 one-liner required to build dependencies:
 
 Clone recursively to pull-in needed submodule(s):
 
-`$ git clone --recursive https://github.com/monero-project/monero`
+`$ git clone --recursive https://github.com/momo-coin/momocoin`
 
 If you already have a repo cloned, initialize and update:
 
